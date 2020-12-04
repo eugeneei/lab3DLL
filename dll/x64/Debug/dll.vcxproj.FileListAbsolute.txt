@@ -1,0 +1,2 @@
+C:\Users\evgen\source\repos\lab3\dll\x64\Debug\dll.dll
+C:\Users\evgen\source\repos\lab3\dll\x64\Debug\dll.pdb

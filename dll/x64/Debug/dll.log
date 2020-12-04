@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\evgen\source\repos\lab3\dll\dllmain.cpp(9,92): warning C4273: 'changeString': inconsistent dll linkage
+C:\Users\evgen\source\repos\lab3\dll\dllMain.h(8,29): message : see previous definition of 'changeString'
+     Creating library C:\Users\evgen\source\repos\lab3\dll\x64\Debug\dll.lib and object C:\Users\evgen\source\repos\lab3\dll\x64\Debug\dll.exp
+  dll.vcxproj -> C:\Users\evgen\source\repos\lab3\dll\x64\Debug\dll.dll

@@ -1,0 +1,2 @@
+C:\Users\evgen\Downloads\OSaSP-master\OSaSP-master\lab3\dll\Debug\dll.dll
+C:\Users\evgen\Downloads\OSaSP-master\OSaSP-master\lab3\dll\Debug\dll.pdb

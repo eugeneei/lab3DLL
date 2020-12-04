@@ -1,0 +1,4 @@
+C:\Users\evgen\Downloads\OSaSP-master\OSaSP-master\lab3\console\x64\Debug\console.exe
+C:\Users\evgen\Downloads\OSaSP-master\OSaSP-master\lab3\console\x64\Debug\console.pdb
+C:\Users\evgen\source\repos\lab3\console\x64\Debug\console.exe
+C:\Users\evgen\source\repos\lab3\console\x64\Debug\console.pdb
